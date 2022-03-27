@@ -5,7 +5,6 @@
 - Python
 - C++
 - Typescript
-- Angular
 - SQF  
 ### I have experience with the following technologies:
 - Git
